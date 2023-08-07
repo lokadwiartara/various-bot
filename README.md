@@ -1,4 +1,4 @@
-"# various-minibot" 
+"# These files were created to support beginner bot developers in learning how bots work." 
 
 These files were created to support beginner bot developers in learning how bots work.
 
