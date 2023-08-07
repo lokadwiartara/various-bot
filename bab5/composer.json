@@ -1,0 +1,7 @@
+{
+    "require": {
+        "duzun/hquery": "^3.0",
+        "fabpot/goutte": "^4.0",
+        "websitebeaver/simple-mysqli": "^1.5"
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "require": {
+        "duzun/hquery": "^3.0",
+        "php-webdriver/webdriver": "^1.9",
+        "thingengineer/mysqli-database-class": "dev-master"
+    }
+}

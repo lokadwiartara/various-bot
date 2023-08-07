@@ -1,0 +1,6 @@
+{
+    "require": {
+        "duzun/hquery": "^3.0",
+        "php-webdriver/webdriver": "^1.9"
+    }
+}
